@@ -1,7 +1,7 @@
 # About me
 :computer: I'm a programmer, gamer, and also a __Social Network Analysis (SNA)__  
 :floppy_disk: Currently working on:
-- 🧣 [Database for multiple schools](https://sprayman-fiiiowner.github.io/Database-for-multiple-schools)
+- 📁 [File Equinox](https://github.com/FIII-Development/FileEquinox)
 
 :seedling: Currently learning:
 - C++
